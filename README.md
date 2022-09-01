@@ -3,6 +3,7 @@
 Portifólio Pedro
 
 ## Tarefas
+
 O controle das tarefas desse projeto será realizado no Github 
 
 ## Icones
@@ -10,4 +11,4 @@ O controle das tarefas desse projeto será realizado no Github
 - :package: nova funcionalidade
 - :up: atualização
 - :beetle: correção de bug
-- :checkered: release
+- :checkered_flag: release

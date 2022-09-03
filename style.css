@@ -324,7 +324,7 @@ header {
 }
 .card-info{
   position: absolute;
-  top: 1rem;
+  top: .5rem;
   bottom: 0;
   padding: 2rem;
   text-shadow: 0.3rem 0.2rem 0.3rem rgba(0, 0, 0, 0.6);

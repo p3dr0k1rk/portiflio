@@ -15,7 +15,7 @@
 }
 
 .hamburguer {
-  /*background-color: red;*/
+ 
   width: 2rem;
   height: 2rem;
   position: fixed;
@@ -331,7 +331,6 @@ header {
   opacity: 0;
   visibility: hidden;
   transition: all .3s;
-
 }
 .card-info h2{
   font-family: var(--font-primary);
@@ -363,6 +362,7 @@ header {
   border-radius: .5rem;
   border: none;
   box-shadow: 0 .1rem .8rem rgba(0, 0, 0, 0.4);
+  cursor: pointer;
 }
 .card:hover .card-info{
   bottom: 2rem;
